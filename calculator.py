@@ -1,3 +1,3 @@
 def add(a, b):
-    print("Adding numbers...")
+    print("Adding numbers")
     return a + b
